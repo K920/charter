@@ -16,7 +16,7 @@
 * ![DNA](https://raw.githubusercontent.com/K920/charter/master/images/dna.png) Tablet devices capable of in-call audio/speaker audio MUST support in-call/speaker audio.
 * ![UNK](https://raw.githubusercontent.com/K920/charter/master/images/unk.png) Devices SHOULD support any additional audio configuration inherent to their device (echo cancellation, extra mics, etc).
 * ![UNK](https://raw.githubusercontent.com/K920/charter/master/images/unk.png) All devices MUST support any other audio output supported by their stock OS (ex. Headphone jack, USB-C, BT).
-* ![UNK](https://raw.githubusercontent.com/K920/charter/master/images/unk.png) All devices with FM radio capabilities in their stock OS SHOULD support FM.
+* ![OK](https://raw.githubusercontent.com/K920/charter/master/images/ok.png) All devices with FM radio capabilities in their stock OS SHOULD support FM.
 
 ## RIL
 
@@ -44,7 +44,7 @@
 
 ## GPS
 
-* ![UNK](https://raw.githubusercontent.com/K920/charter/master/images/unk.png) All devices with GPS supported in their stock OS MUST support GPS.
+* ![OK](https://raw.githubusercontent.com/K920/charter/master/images/ok.png) All devices with GPS supported in their stock OS MUST support GPS.
 
 ## Bluetooth
 
@@ -86,23 +86,23 @@
 
 ## Accelerometer
 
-* ![UNK](https://raw.githubusercontent.com/K920/charter/master/images/unk.png) All devices with an accelerometer MUST support the accelerometer.
+* ![X](https://raw.githubusercontent.com/K920/charter/master/images/x.png) All devices with an accelerometer MUST support the accelerometer.
 
 ## Gyroscope
 
-* ![UNK](https://raw.githubusercontent.com/K920/charter/master/images/unk.png) All devices with a gyroscope MUST support the gyroscope.
+* ![X](https://raw.githubusercontent.com/K920/charter/master/images/x.png) All devices with a gyroscope MUST support the gyroscope.
 
 ## Proximity
 
-* ![UNK](https://raw.githubusercontent.com/K920/charter/master/images/unk.png) All devices with a proximity sensor MUST support the proximity sensor.
+* ![X](https://raw.githubusercontent.com/K920/charter/master/images/x.png) All devices with a proximity sensor MUST support the proximity sensor.
 
 ## Light
 
-* ![UNK](https://raw.githubusercontent.com/K920/charter/master/images/unk.png) All devices with a light sensor MUST support the light sensor.
+* ![X](https://raw.githubusercontent.com/K920/charter/master/images/x.png) All devices with a light sensor MUST support the light sensor.
 
 ## Other Sensors
 
-* ![UNK](https://raw.githubusercontent.com/K920/charter/master/images/unk.png) All other sensors supported by a device’s stock OS SHOULD be supported in LineageOS.
+* ![X](https://raw.githubusercontent.com/K920/charter/master/images/x.png) All other sensors supported by a device’s stock OS SHOULD be supported in LineageOS.
 
 ## Accessories
 
