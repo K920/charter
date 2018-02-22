@@ -14,8 +14,8 @@
 * Phones MUST support in-call audio.
 * ![OK](https://raw.githubusercontent.com/K920/charter/master/images/ok.png) Phones MUST support speaker audio.
 * ![DNA](https://raw.githubusercontent.com/K920/charter/master/images/dna.png) Tablet devices capable of in-call audio/speaker audio MUST support in-call/speaker audio.
-* ![UNK](https://raw.githubusercontent.com/K920/charter/master/images/unk.png) Devices SHOULD support any additional audio configuration inherent to their device (echo cancellation, extra mics, etc).
-* ![UNK](https://raw.githubusercontent.com/K920/charter/master/images/unk.png) All devices MUST support any other audio output supported by their stock OS (ex. Headphone jack, USB-C, BT).
+* ![OK](https://raw.githubusercontent.com/K920/charter/master/images/ok.png) Devices SHOULD support any additional audio configuration inherent to their device (echo cancellation, extra mics, etc).
+* ![OK](https://raw.githubusercontent.com/K920/charter/master/images/ok.png) All devices MUST support any other audio output supported by their stock OS (ex. Headphone jack, USB-C, BT).
 * ![OK](https://raw.githubusercontent.com/K920/charter/master/images/ok.png) All devices with FM radio capabilities in their stock OS SHOULD support FM.
 
 ## RIL
@@ -61,8 +61,7 @@
 
 ## Video Recording
 
-* ![X](https://raw.githubusercontent.com/K920/charter/master/images/x.png) All devices with Video Recording supported in their stock OS MUST support Video Recording, in both front facing and rear camera configurations.
-* [NOTE: kernel patches missing]
+* ![OK](https://raw.githubusercontent.com/K920/charter/master/images/ok.png) All devices with Video Recording supported in their stock OS MUST support Video Recording, in both front facing and rear camera configurations.
 
 ## Display
 
@@ -73,7 +72,7 @@
 
 ## NFC
 
-* ![UNK](https://raw.githubusercontent.com/K920/charter/master/images/unk.png) All devices with NFC supported in their stock OS MUST support NFC.
+* ![X](https://raw.githubusercontent.com/K920/charter/master/images/x.png) All devices with NFC supported in their stock OS MUST support NFC.
 
 ## Fingerprint Sensor
 
@@ -86,27 +85,27 @@
 
 ## Accelerometer
 
-* ![X](https://raw.githubusercontent.com/K920/charter/master/images/x.png) All devices with an accelerometer MUST support the accelerometer.
+* ![OK](https://raw.githubusercontent.com/K920/charter/master/images/ok.png) All devices with an accelerometer MUST support the accelerometer.
 
 ## Gyroscope
 
-* ![X](https://raw.githubusercontent.com/K920/charter/master/images/x.png) All devices with a gyroscope MUST support the gyroscope.
+* ![OK](https://raw.githubusercontent.com/K920/charter/master/images/ok.png) All devices with a gyroscope MUST support the gyroscope.
 
 ## Proximity
 
-* ![X](https://raw.githubusercontent.com/K920/charter/master/images/x.png) All devices with a proximity sensor MUST support the proximity sensor.
+* ![OK](https://raw.githubusercontent.com/K920/charter/master/images/ok.png) All devices with a proximity sensor MUST support the proximity sensor.
 
 ## Light
 
-* ![X](https://raw.githubusercontent.com/K920/charter/master/images/x.png) All devices with a light sensor MUST support the light sensor.
+* ![OK](https://raw.githubusercontent.com/K920/charter/master/images/ok.png) All devices with a light sensor MUST support the light sensor.
 
 ## Other Sensors
 
-* ![X](https://raw.githubusercontent.com/K920/charter/master/images/x.png) All other sensors supported by a device’s stock OS SHOULD be supported in LineageOS.
+* ![OK](https://raw.githubusercontent.com/K920/charter/master/images/ok.png) All other sensors supported by a device’s stock OS SHOULD be supported in LineageOS.
 
 ## Accessories
 
-* ![X](https://raw.githubusercontent.com/K920/charter/master/images/x.png) All devices with proprietary accessories SHOULD support those accessories in LineageOS (ex. O-Click, Essential 360 Camera).
+* ![UNK](https://raw.githubusercontent.com/K920/charter/master/images/unk.png) All devices with proprietary accessories SHOULD support those accessories in LineageOS (ex. O-Click, Essential 360 Camera).
 
 ## Hardware Deviations
 
